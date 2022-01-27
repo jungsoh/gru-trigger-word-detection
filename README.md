@@ -3,7 +3,7 @@ We will build a speech dataset and implement a recurrent neural network (RNN) fo
 
 Our trigger word will be "activate". The algorithm will trigger a chime when it detects someone saying "activate".
 
-![sound](images/sound.png)
+![sound](images/sound_crop.png)
 
 We will perform following tasks:
 - Synthesize and process audio recordings to create train and development datasets
